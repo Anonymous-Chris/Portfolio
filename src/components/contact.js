@@ -12,7 +12,7 @@ class Contact extends Component {
             <img
               src={portfolio}
               alt="my photo"
-              style={{height: '250px'}}
+              style={{height: '250px' }}
                />
              <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>A recent Computer Science graduate, actively looking for a full time position.</p>
 
