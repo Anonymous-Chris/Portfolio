@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio-me/static/css/main.b5931f82.chunk.css",
-    "main.js": "/Portfolio-me/static/js/main.9d66ac50.chunk.js",
-    "main.js.map": "/Portfolio-me/static/js/main.9d66ac50.chunk.js.map",
+    "main.css": "/Portfolio-me/static/css/main.fec17c5a.chunk.css",
+    "main.js": "/Portfolio-me/static/js/main.f4159e68.chunk.js",
+    "main.js.map": "/Portfolio-me/static/js/main.f4159e68.chunk.js.map",
     "runtime-main.js": "/Portfolio-me/static/js/runtime-main.46deeacb.js",
     "runtime-main.js.map": "/Portfolio-me/static/js/runtime-main.46deeacb.js.map",
     "static/css/2.e4346227.chunk.css": "/Portfolio-me/static/css/2.e4346227.chunk.css",
-    "static/js/2.11e064fa.chunk.js": "/Portfolio-me/static/js/2.11e064fa.chunk.js",
-    "static/js/2.11e064fa.chunk.js.map": "/Portfolio-me/static/js/2.11e064fa.chunk.js.map",
+    "static/js/2.8445a7a2.chunk.js": "/Portfolio-me/static/js/2.8445a7a2.chunk.js",
+    "static/js/2.8445a7a2.chunk.js.map": "/Portfolio-me/static/js/2.8445a7a2.chunk.js.map",
     "index.html": "/Portfolio-me/index.html",
-    "precache-manifest.d9711d0ef53f636bf792d1c893e09b26.js": "/Portfolio-me/precache-manifest.d9711d0ef53f636bf792d1c893e09b26.js",
+    "precache-manifest.48d244f6dfc21414f0c7754f8c67ee01.js": "/Portfolio-me/precache-manifest.48d244f6dfc21414f0c7754f8c67ee01.js",
     "service-worker.js": "/Portfolio-me/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/Portfolio-me/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.b5931f82.chunk.css.map": "/Portfolio-me/static/css/main.b5931f82.chunk.css.map",
-    "static/js/2.11e064fa.chunk.js.LICENSE.txt": "/Portfolio-me/static/js/2.11e064fa.chunk.js.LICENSE.txt",
+    "static/css/main.fec17c5a.chunk.css.map": "/Portfolio-me/static/css/main.fec17c5a.chunk.css.map",
+    "static/js/2.8445a7a2.chunk.js.LICENSE.txt": "/Portfolio-me/static/js/2.8445a7a2.chunk.js.LICENSE.txt",
     "static/media/Resume.pdf": "/Portfolio-me/static/media/Resume.f4f52865.pdf",
     "static/media/attendance.jpg": "/Portfolio-me/static/media/attendance.ccb45064.jpg",
+    "static/media/contact.jpg": "/Portfolio-me/static/media/contact.213f6c3f.jpg",
     "static/media/hangman.jpg": "/Portfolio-me/static/media/hangman.9b123bb9.jpg",
     "static/media/himalayas.jpg": "/Portfolio-me/static/media/himalayas.5761c191.jpg",
     "static/media/me_2016.jpg": "/Portfolio-me/static/media/me_2016.3054bfce.jpg",
@@ -29,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.46deeacb.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.11e064fa.chunk.js",
-    "static/css/main.b5931f82.chunk.css",
-    "static/js/main.9d66ac50.chunk.js"
+    "static/js/2.8445a7a2.chunk.js",
+    "static/css/main.fec17c5a.chunk.css",
+    "static/js/main.f4159e68.chunk.js"
   ]
 }
