@@ -9,6 +9,8 @@ class Footer extends Component {
   render() {
     return (
       <div className='container'>
+      <div style={{margin:'50px'}}>
+      </div>
       <footer>
         <ul className="site-link" style={{textAlign:'center'}}>
          
