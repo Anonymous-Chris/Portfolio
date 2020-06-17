@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
-
-
+import Footer from './footer';
+import welcome from '../imgs/welcome.png'
 class Landing extends Component {
   render() {
     return(
@@ -13,6 +13,8 @@ class Landing extends Component {
            <br/>
            <br/>
            <br/>
+
+           <img src={welcome}></img>
            <br/>
            <br/>
             <div className="banner-text">
@@ -42,13 +44,14 @@ class Landing extends Component {
            {/* Twitter */}
            <a href="https://twitter.com/limbe_me" rel="noopener noreferrer" target="_blank">
            
-          <i class="fa fa-twitter-square" aria-hidden="true"></i>
+          <i className="fa fa-twitter-square" aria-hidden="true"></i>
           </a>
 
         </div>
             </div>
           </Cell>
         </Grid>
+     
       </div>
     )
   }
