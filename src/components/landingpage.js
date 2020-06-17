@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
-import Footer from './footer';
+
 import welcome from '../imgs/welcome.png'
 class Landing extends Component {
   render() {
