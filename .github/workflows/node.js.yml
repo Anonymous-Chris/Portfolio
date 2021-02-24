@@ -32,8 +32,6 @@ jobs:
     - name: Build
       run : |
         npm run build
-      env : 
-        CI: false
 
     - name: Deploy
       run: |
@@ -42,7 +40,6 @@ jobs:
         git remote set-url origin https://${github_token}@github.com/${repository}
         npm run deploy
       env:
-        CI: false
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
         github_token: ${{ secrets.MY_SECRET  }}
