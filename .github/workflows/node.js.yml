@@ -26,13 +26,20 @@ jobs:
 
     - name: Install dependencies
       run: npm install
+      
     - name: Update
       run: npx browserslist@latest --update-db
+      
     - name: Update 1
       run: npm audit fix
+      env :
+        CI : false
+        
     - name: Build
       run : |
         npm run build
+      env :
+        CI : false
 
     - name: Deploy
       run: |
@@ -45,4 +52,4 @@ jobs:
         user_email: 'github-actions[bot]@users.noreply.github.com'
         github_token: ${{ secrets.MY_SECRET  }}
         repository: ${{ github.repository }}
-        
+        CI : false
