@@ -32,11 +32,11 @@ class Projects extends Component {
             <CardActions border>
 
     
-            <a href="https://github.com/Anonymous-Chris/Full-final" target="_blank">
+            <a href="https://github.com/Anonymous-Chris/Full-final" target="_blank" rel="noreferrer noopener">
             <Button colored>GitHub</Button>
             </a>
             
-            <a href="https://olemiss-tutoring.herokuapp.com/" target="_blank">
+            <a href="https://olemiss-tutoring.herokuapp.com/" target="_blank" rel="noreferrer noopener">
             <Button colored>Live Demo</Button>
             </a>
           
@@ -55,11 +55,11 @@ class Projects extends Component {
             <CardActions border>
 
 
-            <a href="https://github.com/Anonymous-Chris/Weather-app" target="_blank">
+            <a href="https://github.com/Anonymous-Chris/Weather-app" target="_blank" rel="noreferrer noopener">
             <Button colored>GitHub</Button>
             </a>
             
-            <a href="https://blueberry-pie-24582.herokuapp.com/" target="_blank">
+            <a href="https://blueberry-pie-24582.herokuapp.com/" target="_blank" rel="noreferrer noopener">
             <Button colored>Live Demo</Button>
             </a>
 
@@ -73,17 +73,17 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
           <CardTitle style={{color: 'black', height: '176px', background: `url("${hangman}") center / cover`}} ></CardTitle>
             <CardText>
-              Used RESTFUL APIs to get random country from <a href="https://restcountries.eu/" target="_blank">https://restcountries.eu/</a>.
+              Used RESTFUL APIs to get random country from <a href="https://restcountries.eu/" target="_blank" rel="noreferrer noopener">https://restcountries.eu/</a>.
               <br/>
               <br/>
               Takes input using keypress!
             </CardText>
             <CardActions border>
-            <a href="https://github.com/Anonymous-Chris/Hangman" target="_blank">
+            <a href="https://github.com/Anonymous-Chris/Hangman" target="_blank" rel="noreferrer noopener">
             <Button colored>GitHub</Button>
             </a>
             
-            <a href="https://turing.cs.olemiss.edu/~klingthe/Hangman/" target="_blank">
+            <a href="https://turing.cs.olemiss.edu/~klingthe/Hangman/" target="_blank" rel="noreferrer noopener">
             <Button colored>Live Demo</Button>
             </a>
             </CardActions>
@@ -109,7 +109,7 @@ class Projects extends Component {
           <CardActions border>
 
   
-          <a href="https://github.com/Anonymous-Chris/JDBC" target="_blank">
+          <a href="https://github.com/Anonymous-Chris/JDBC" target="_blank" rel="noreferrer noopener">
           <Button colored>GitHub</Button>
           </a>
          
@@ -180,10 +180,10 @@ class Projects extends Component {
           <CardActions border>
 
   
-          <a href="https://github.com/Anonymous-Chris/JDBC" target="_blank">
+          <a href="https://github.com/Anonymous-Chris/JDBC" target="_blank" rel="noreferrer noopener">
           <Button colored>GitHub</Button>
           </a>
-          <a href="https://kshitijlingthep.com" target="_blank">
+          <a href="https://kshitijlingthep.com" target="_blank" rel="noreferrer noopener">
           <Button colored>Live Demo</Button>
           </a>
         
@@ -202,10 +202,10 @@ class Projects extends Component {
           <CardActions border>
 
 
-          <a href="https://github.com/Anonymous-Chris/CS458" target="_blank">
+          <a href="https://github.com/Anonymous-Chris/CS458" target="_blank" rel="noreferrer noopener">
           <Button colored>GitHub</Button>
           </a>
-          <a href="" target="_blank">
+          <a href="https://github.com/Anonymous-Chris/CS458" target="_blank" rel="noreferrer noopener">
           <Button colored>Live Demo</Button>
           </a>
         
@@ -224,10 +224,10 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
       
-          <a href="https://github.com/Anonymous-Chris/LingsKitchen" target="_blank">
+          <a href="https://github.com/Anonymous-Chris/LingsKitchen" target="_blank" rel="noreferrer noopener">
           <Button colored>GitHub</Button>
           </a>
-          <a href="h" target="_blank">
+          <a href="h" target="_blank" rel="noreferrer noopener">
           <Button colored>Live Demo</Button>
           </a>
       
@@ -250,7 +250,7 @@ class Projects extends Component {
         <CardActions border>
 
 
-        <a href="https://github.com/Anonymous-Chris/Task-App" target="_blank">
+        <a href="https://github.com/Anonymous-Chris/Task-App" target="_blank" rel="noreferrer noopener">
         <Button colored>GitHub</Button>
         </a>
         

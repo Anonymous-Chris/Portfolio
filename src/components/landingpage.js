@@ -27,22 +27,22 @@ class Landing extends Component {
         <div className="social-links">
 
           {/* LinkedIn */}
-          <a href="https://www.linkedin.com/in/kshitij-lingthep/" rel="opener" target="_blank">
+          <a href="https://www.linkedin.com/in/kshitij-lingthep/"  target="_blank" rel="noreferrer noopener">
             <i className="fa fa-linkedin-square" aria-hidden="true" />
           </a>
 
           {/* Github */}
-          <a href="https://github.com/Anonymous-Chris" rel="opener" target="_blank">
+          <a href="https://github.com/Anonymous-Chris"  target="_blank" rel="noreferrer noopener">
             <i className="fa fa-github-square" aria-hidden="true" />
           </a>
 
           {/* Youtube */}
-          <a href="https://www.facebook.com/skniyara" rel="opener" target="_blank">
+          <a href="https://www.facebook.com/skniyara"  target="_blank" rel="noreferrer noopener">
             <i className="fa fa-facebook-square" aria-hidden="true" />
           </a>
 
            {/* Twitter */}
-           <a href="https://twitter.com/limbe_me" rel="opener" target="_blank">
+           <a href="https://twitter.com/limbe_me"  target="_blank" rel="noreferrer noopener">
            
           <i className="fa fa-twitter-square" aria-hidden="true"></i>
           </a>

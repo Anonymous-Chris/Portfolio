@@ -26,7 +26,7 @@ class Resume extends Component {
             <p>kshitij.lingthep@gmail.com</p>
             <h5>Web</h5>
             <p>kshitijlingthep.com </p>
-            <h5> <a href={Pdf} target="_blank">Download</a></h5>
+            <h5> <a href={Pdf} target="_blank" rel="noreferrer noopener">Download</a></h5>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>
