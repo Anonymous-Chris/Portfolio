@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
 import portfolio from '../imgs/portfolio.jpg';
-import contact from '../imgs/contact.jpg'
+
 
 class Contact extends Component {
   render() {
@@ -13,7 +13,7 @@ class Contact extends Component {
             <h2>Kshitij Lingthep</h2>
             <img
               src={portfolio}
-              alt="my photo"
+              alt="my"
               style={{height: '250px' }}
                />
              <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>A recent Computer Science graduate, actively looking for a full time position.</p>

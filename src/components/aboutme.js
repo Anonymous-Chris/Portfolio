@@ -11,7 +11,7 @@ class About extends Component {
         <Grid>
           <Cell col={6}>
           <div>
-            <img src ={himalayas} style={{width:'100%', height:'100%'}}></img>
+            <img src ={himalayas} alt="himalayas" style={{width:'100%', height:'100%'}}></img>
             </div>
             <br/>
             <div>
@@ -31,7 +31,7 @@ class About extends Component {
         
       
             <div>
-            <img src ={robots} style={{width:'100%', height:'100%'}}></img>
+            <img src ={robots} alt="robots" style={{width:'100%', height:'100%'}}></img>
             </div>
           </Cell>
 
@@ -52,7 +52,7 @@ class About extends Component {
           </div>
           <br/>
           <div>
-          <img src ={me_2016} style={{width:'100%', height:'100%'}}></img>
+          <img src ={me_2016} alt="me" style={{width:'100%', height:'100%'}}></img>
         
           </div>
           <br/>
