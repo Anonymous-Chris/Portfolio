@@ -59,6 +59,15 @@ class Resume extends Component {
 
               <h2>Experience</h2>
 
+              <Experience
+              startYear={2020 | 2021}
+             
+              jobName="Web Developer"
+              jobCompany="Foxonn Industrial Internet, Foxconn"
+              jobDescription="Design and create websites"
+              />
+              
+
             <Experience
               startYear={2020}
              
