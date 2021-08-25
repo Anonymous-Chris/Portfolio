@@ -22,7 +22,7 @@ class Landing extends Component {
 
             <hr/>
 
-          <p>HTML/CSS | Bootstrap | JavaScript | React | NodeJS | Express | MongoDB | My SQL | </p>
+          <p>HTML/CSS | Bootstrap | JavaScript | ReactJS | VueJS | NodeJS | Express | Docker | CI/CD | NodeRED | Grafana </p>
 
         <div className="social-links">
 
