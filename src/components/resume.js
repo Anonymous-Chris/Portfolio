@@ -136,7 +136,7 @@ class Resume extends Component {
               endYear={2020}
               jobName="Tutor | Department of Mathematics"
               jobCompany="The University of Mississippi "
-              jobDescription="Assist students in understanding the problems of Mathematics"
+              jobDescription="● Assist students in understanding the problems of Mathematics"
               moreInfo="● Aid the students in solving complex problems (Stats, Calculus Series, Trig)"
               />
               <hr style={{borderTop: '3px solid #e22947'}} />
