@@ -14,7 +14,7 @@ class Landing extends Component {
            <br/>
            <br/>
 
-           <img src={welcome} alt="welcome"></img>
+           <img className="welcome" src={welcome} alt="welcome"></img>
            <br/>
           
             <div className="banner-text">

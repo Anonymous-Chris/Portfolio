@@ -108,9 +108,21 @@
   width: 50%;
   margin: auto;
 }
+@media only screen and (max-width: 600px) {
+   .social-links{
+  margin: 34px;
+} 
+
+.welcome{
+  width: 350px; 
+}
+}
+
 
 .social-links i {
   color: white;
   font-size: 5em;
   padding: 8px;
 }
+
+
