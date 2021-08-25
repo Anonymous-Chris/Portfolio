@@ -116,8 +116,19 @@
 .welcome{
   width: 350px; 
 }
+
+.banner-text h1 {
+  font-size: 54px;
 }
 
+.social-links i {
+    font-size: 4em !important;
+    padding-right: 8px !important;
+    padding-bottom: 8px !important;
+    padding-top: 0 !important;
+    padding-left: 0!important;
+}
+}
 
 .social-links i {
   color: white;
