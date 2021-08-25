@@ -18,14 +18,14 @@ class Resume extends Component {
             <p>A dedicated, diligent and hardworking student who excels at programming as well as mathematics. Well garnered with the technical expertise in the field of computation, data science, being up-to-date with latest technological advancements in the industry. Additionally, enriched with soft skills such as leadership and communication skills, proven by the past experiences. Having learnt a lot from past, always seeing present as full of opportunities, ready to take in any task. </p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
-            <p>1802 Jackson Ave w, Oxford, MS, 38655</p>
+            <p>1900 E Capitol Dr, Milwaukee, Wisconsin</p>
             <p style={{color:'red', alignText:'center'}}>*** willing to relocate ***</p>
             <h5>Phone</h5>
             <p>(662) 638-9569</p>
             <h5>Email</h5>
             <p>kshitij.lingthep@gmail.com</p>
             <h5>Web</h5>
-            <p>kshitijlingthep.com </p>
+            <p><a href="https://anonymous-chris.github.io/Portfolio/">https://anonymous-chris.github.io/Portfolio/</a> </p>
             <h5> <a href={Pdf} target="_blank" rel="noreferrer noopener">Download</a></h5>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           </Cell>
