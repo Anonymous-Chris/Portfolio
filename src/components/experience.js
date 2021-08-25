@@ -16,6 +16,8 @@ class Experience extends Component {
           <h5>{this.props.jobCompany}</h5>
           <p>{this.props.jobDescription}</p>
           <p>{this.props.moreInfo}</p>
+          <p>{this.props.moreInfo1}</p>
+          <p>{this.props.moreInfo2}</p>
         </Cell>
       </Grid>
     )

@@ -64,7 +64,13 @@ class Resume extends Component {
              
               jobName="Web Developer"
               jobCompany="Foxonn Industrial Internet, Foxconn"
-              jobDescription="Design and create websites"
+              jobDescription="●Collaborated on real time data monitoring Dashboards for the manufacturing plant at Mt. Pleasant, WI(ReactJS, Grafana, NodeRED)."
+              moreInfo="● Designed and developed dynamic responsive reports based on the RESTful APIs."
+              
+              moreInfo1="● Developed a Content Management System(CMS) for the products and solutions(.NET)."
+              
+              moreInfo2="● Created a Live Video Streaming dashboard using Object detection and human detection(python, AI , flask api)"
+              
               />
               
 
@@ -73,7 +79,7 @@ class Resume extends Component {
              
               jobName="Web Developer"
               jobCompany="Department of Mathematics, The University of Mississippi"
-              jobDescription="Designed an attendance tracking application using React for front-end, and Node, Express for backend of a
+              jobDescription="● Designed an attendance tracking application using React for front-end, and Node, Express for backend of a
               website."
               />
 
@@ -82,7 +88,7 @@ class Resume extends Component {
              
               jobName="Vol Hacks | Hackathon"
               jobCompany="The University of Tennessee "
-              jobDescription="Designed a cross-platform desktop application using electron framework."
+              jobDescription="● Designed a cross-platform desktop application using electron framework."
               />
 
               <Experience
@@ -90,7 +96,7 @@ class Resume extends Component {
              
               jobName="Database Administrator | School of Engineering"
               jobCompany="The University of Mississippi "
-              jobDescription="Designed a database using MySQL, PHP and GO for implementing CRUD interfaces on the website for
+              jobDescription="● Designed a database using MySQL, PHP and GO for implementing CRUD interfaces on the website for
               subscription of news and addition and deletion of new users."
               />
 
@@ -102,7 +108,7 @@ class Resume extends Component {
               jobDescription="● Designed a web-based platform for the department to handle the student request and application using the
               fundamentals of software development techniques: Agile Development, Project Management through SCRUM.
              "
-             moreInfo=" ● Developed admin/user/guest functions in accessing the information entered, while working with both the
+             moreInfo="● Developed admin/user/guest functions in accessing the information entered, while working with both the
              backend and frontend of the project involving HTML, PHP, MYSQL, JavaScript, CSS. "
               />
 
@@ -113,7 +119,7 @@ class Resume extends Component {
               jobCompany="The University of Mississippi"
               jobDescription="● Developed a progressive hybrid mobile app, which lets user access all the happenings through the single portal,
               while collecting the information and news from major medias: BBC, CNN, FOX."
-              moreInfo=" ● Implemented ionic framework in developing the app, while using Angular JS and node.js"
+              moreInfo="● Implemented ionic framework in developing the app, while using Angular JS and node.js"
               />
 
               <Experience
@@ -122,7 +128,7 @@ class Resume extends Component {
               jobName="Teaching Assistant | Center for Excellence in Teaching and Learning"
               jobCompany="The University of Mississippi "
               jobDescription="● Set weekly review sessions for difficult courses and help students participate in group works. | Calculus|"
-              moreInfo="  ● Abet the students participate so they can learn."
+              moreInfo="● Abet the students participate so they can learn."
               />
 
               <Experience
@@ -131,7 +137,7 @@ class Resume extends Component {
               jobName="Tutor | Department of Mathematics"
               jobCompany="The University of Mississippi "
               jobDescription="Assist students in understanding the problems of Mathematics"
-              moreInfo="     ● Aid the students in solving complex problems (Stats, Calculus Series, Trig)"
+              moreInfo="● Aid the students in solving complex problems (Stats, Calculus Series, Trig)"
               />
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>
