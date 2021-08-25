@@ -108,27 +108,7 @@
   width: 50%;
   margin: auto;
 }
-@media only screen and (max-width: 600px) {
-   .social-links{
-  margin: 34px;
-} 
 
-.welcome{
-  width: 350px; 
-}
-
-.banner-text h1 {
-  font-size: 54px;
-}
-
-.social-links i {
-    font-size: 4em !important;
-    padding-right: 8px !important;
-    padding-bottom: 8px !important;
-    padding-top: 0 !important;
-    padding-left: 0!important;
-}
-}
 
 .social-links i {
   color: white;
@@ -137,3 +117,31 @@
 }
 
 
+/* for mobile screens */
+@media only screen and (max-width: 600px) {
+  .social-links{
+ margin: 34px;
+} 
+
+.welcome{
+ width: 350px; 
+}
+
+.banner-text h1 {
+ font-size: 54px;
+}
+
+.social-links i {
+   font-size: 4em !important;
+   padding-right: 8px !important;
+   padding-bottom: 8px !important;
+   padding-top: 0 !important;
+   padding-left: 0!important;
+}
+
+
+.landing-grid {
+max-height: 85% !important;
+overflow-y: scroll;
+}
+}
