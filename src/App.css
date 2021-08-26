@@ -168,3 +168,12 @@ overflow-y: scroll;
   padding-right: 2rem !important;
 }
 }
+
+@media (max-width: 1026px){
+  .projects-grid{
+    flex-direction: column;
+  }
+  .mdl-card{
+    margin-bottom: 10px !important;
+  }
+}
