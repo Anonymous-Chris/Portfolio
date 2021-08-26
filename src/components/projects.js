@@ -20,6 +20,7 @@ class Projects extends Component {
 
     if(this.state.activeTab === 0){
       return(
+        <div>
         <div className="projects-grid">
           {/* Project 1 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
@@ -94,7 +95,73 @@ class Projects extends Component {
 
           
         </div>
-
+         <div className="projects-grid">
+         {/* Project 4 */}
+         <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+           <CardTitle style={{color: 'black', height: '176px', background: `url("https://www.minttm.com/blog/wp-content/uploads/2019/03/Amazon-Clone.jpg") center / cover`}} ></CardTitle>
+           <CardText>
+               Create Amazon Clone(Frontend using Context API and functional components)  
+          </CardText>
+           <CardActions border>
+   
+   
+           <a href="https://github.com/Anonymous-Chris/amazonpractice" target="_blank" rel="noreferrer noopener">
+           <Button colored>GitHub</Button>
+           </a>
+           
+           <a href="https://anonymous-chris.github.io/amazonpractice/" target="_blank" rel="noreferrer noopener">
+            <Button colored>Live Demo</Button>
+            </a>
+           </CardActions>
+           <CardMenu style={{color: '#fff'}}>
+             <IconButton name="share" />
+           </CardMenu>
+         </Card>
+   
+         {/* Project 5 */}
+         <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+         <CardTitle style={{color: 'black', height: '176px', background: `url("${wip}") center / cover`}} ></CardTitle>
+           <CardText>
+           --------------------Work in Progress-----------------------------------------------------------------------------------
+           </CardText>
+           <CardActions border>
+   
+   
+           <Button colored>GitHub</Button>
+          
+           
+          
+           <Button colored>Live Demo</Button>
+         
+   
+           </CardActions>
+           <CardMenu style={{color: '#fff'}}>
+             <IconButton name="share" />
+           </CardMenu>
+         </Card>
+   
+         {/* Project 6 */}
+         <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+         <CardTitle style={{color: 'black', height: '176px', background: `url("${wip}") center / cover`}} ></CardTitle>
+           <CardText>
+           --------------------Work in Progress-----------------------------------------------------------------------------------
+           </CardText>
+           <CardActions border>
+       
+           <Button colored>GitHub</Button>
+   
+    
+           <Button colored>Live Demo</Button>
+       
+           </CardActions>
+           <CardMenu style={{color: '#fff'}}>
+             <IconButton name="share" />
+           </CardMenu>
+         </Card>
+   
+         
+       </div>
+       </div>
 
       )
     } else if(this.state.activeTab === 1) {
