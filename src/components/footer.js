@@ -17,7 +17,7 @@ class Footer extends Component {
           <hr></hr>
             <p>
             
-            1802 Jackson Ave W, Oxford, MS 38655 USA
+            1900 E Capitol Dr, Milwaukee, WI, 53211 USA
             <br/>
             (662) 638-9569
             <br/>
