@@ -16,7 +16,7 @@ class Contact extends Component {
               alt="my"
               style={{height: '250px' }}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>A recent Computer Science graduate, actively looking for a full time position.</p>
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>A Computer Science graduate, with 1 year of R&D | Frontend developer experience,  actively looking for a full time position.</p>
 
           </Cell>
           <Cell col={6}>
