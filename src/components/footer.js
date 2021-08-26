@@ -8,10 +8,7 @@ class Footer extends Component {
 
   render() {
     return (
-      <div className='container'>
-      <div style={{margin:'75px'}}>
-      </div>
-      <footer>
+      <React.Fragment>
         <ul className="site-link" style={{textAlign:'center'}}>
          
           <hr></hr>
@@ -26,8 +23,7 @@ class Footer extends Component {
            </p>
       
         </ul>
-      </footer>
-      </div>
+        </React.Fragment>
     );
   }
 }
