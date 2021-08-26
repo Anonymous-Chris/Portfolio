@@ -83,7 +83,7 @@ class Projects extends Component {
             <Button colored>GitHub</Button>
             </a>
             
-            <a href="https://turing.cs.olemiss.edu/~klingthe/Hangman/" target="_blank" rel="noreferrer noopener">
+            <a href="https://anonymous-chris.github.io/Hangman/" target="_blank" rel="noreferrer noopener">
             <Button colored>Live Demo</Button>
             </a>
             </CardActions>
