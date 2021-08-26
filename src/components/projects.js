@@ -21,7 +21,7 @@ class Projects extends Component {
     if(this.state.activeTab === 0){
       return(
         <div>
-        <div className="projects-grid">
+        <div className="projects-grid" style={{marginBottom:'10px'}}>
           {/* Project 1 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: 'black', height: '176px', background: `url("${attendance}") center / cover`}} ></CardTitle>
