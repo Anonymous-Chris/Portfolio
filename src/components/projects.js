@@ -357,15 +357,19 @@ class Projects extends Component {
       <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
       <CardTitle style={{color: 'black', height: '176px', background: `url("${wip}") center / cover`}} ></CardTitle>
         <CardText>
-        --------------------Work in Progress-----------------------------------------------------------------------------------
+Vue Learning
         </CardText>
         <CardActions border>
-    
-        <Button colored>GitHub</Button>
+        <a href="https://github.com/Anonymous-Chris/Vuelearning" target="_blank" rel="noreferrer noopener">
 
- 
-        <Button colored>Live Demo</Button>
-    
+        <Button colored>Overall</Button>
+          </a>
+
+        <a href="https://github.com/Anonymous-Chris/vuegraphs" target="_blank" rel="noreferrer noopener">
+
+        <Button colored>Graphs</Button>
+              </a>
+
         </CardActions>
         <CardMenu style={{color: '#fff'}}>
           <IconButton name="share" />
