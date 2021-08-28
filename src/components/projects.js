@@ -274,9 +274,9 @@ class Projects extends Component {
           <a href="https://github.com/Anonymous-Chris/CS458" target="_blank" rel="noreferrer noopener">
           <Button colored>GitHub</Button>
           </a>
-          <a href="https://github.com/Anonymous-Chris/CS458" target="_blank" rel="noreferrer noopener">
+          {/* <a href="" target="_blank" rel="noreferrer noopener">
           <Button colored>Live Demo</Button>
-          </a>
+          </a> */}
         
 
           </CardActions>
@@ -296,9 +296,9 @@ class Projects extends Component {
           <a href="https://github.com/Anonymous-Chris/LingsKitchen" target="_blank" rel="noreferrer noopener">
           <Button colored>GitHub</Button>
           </a>
-          <a href="h" target="_blank" rel="noreferrer noopener">
+          {/* <a href="" target="_blank" rel="noreferrer noopener">
           <Button colored>Live Demo</Button>
-          </a>
+          </a> */}
       
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
@@ -332,18 +332,19 @@ class Projects extends Component {
 
       {/* Project 5 */}
       <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-      <CardTitle style={{color: 'black', height: '176px', background: `url("${wip}") center / cover`}} ></CardTitle>
+      <CardTitle style={{color: 'black', height: '176px', background: `url("https://mosswebworks.com/wp-content/uploads/2020/11/What-Is-A-WordPress-Child-Theme-Why-We-Use-It.png") center / cover`}} ></CardTitle>
         <CardText>
-        --------------------Work in Progress-----------------------------------------------------------------------------------
+        Create React Child Theme in Wordpress
         </CardText>
         <CardActions border>
 
 
+        <a href="https://github.com/Anonymous-Chris/React-Child-Theme" target="_blank" rel="noreferrer noopener">
         <Button colored>GitHub</Button>
-       
+        </a>       
         
        
-        <Button colored>Live Demo</Button>
+        {/* <Button colored>Live Demo</Button> */}
       
 
         </CardActions>
