@@ -7,3 +7,7 @@ ul.info__list {
   font-size: 18px;
   font-weight: 600;
 }
+
+ul.info__list p {
+  font-size: 16px;
+}
