@@ -8,14 +8,22 @@ const Info = () => {
       <ul class="info__list">
         <li>
           1.
-          <a href="https://github.com/" target="_blank">
+          <a
+            href="https://github.com/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
             Version Control(Github)
           </a>
           <p>All of the projects are version controlled using github.</p>
         </li>
         <li>
           2.
-          <a href="https://pages.github.com/" target="_blank">
+          <a
+            href="https://pages.github.com/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
             Github Pages(GH Pages)
           </a>
           <p>
@@ -25,7 +33,11 @@ const Info = () => {
         </li>
         <li>
           3.
-          <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
+          <a
+            href="https://en.wikipedia.org/wiki/CI/CD"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
             Continuous Integration/Continuous Deployment(CI/CD)
           </a>
           <p>
@@ -36,7 +48,11 @@ const Info = () => {
         </li>
         <li>
           4.
-          <a href="https://nodered.org/" target="_blank">
+          <a
+            href="https://nodered.org/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
             Nodered
           </a>
           <p>

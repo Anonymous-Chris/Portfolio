@@ -47,7 +47,6 @@ class Projects extends Component {
                 of Mathematics, at The University of Mississippi.
                 <br />
                 <a href=" https://olemiss-tutoring.herokuapp.com/">
-                  {" "}
                   https://olemiss-tutoring.herokuapp.com/
                 </a>
               </CardText>
