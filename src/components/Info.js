@@ -7,18 +7,27 @@ const Info = () => {
       are listed below.
       <ul class="info__list">
         <li>
-          1. Version Control(Github)
+          1.
+          <a href="https://github.com/" target="_blank">
+            Version Control(Github)
+          </a>
           <p>All of the projects are version controlled using github.</p>
         </li>
         <li>
-          2. Github Pages(GH Pages)
+          2.
+          <a href="https://pages.github.com/" target="_blank">
+            Github Pages(GH Pages)
+          </a>
           <p>
             Most of the projects are hosted using github pages. Some of the
             projects are hosted using heroku too.
           </p>
         </li>
         <li>
-          3. Continuous Integration/Continuous Deployment(CI/CD)
+          3.
+          <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
+            Continuous Integration/Continuous Deployment(CI/CD)
+          </a>
           <p>
             Most of the projects are automatically build from the main pipeline.
             It is built from the commited code and is ran by bots in github
@@ -26,7 +35,10 @@ const Info = () => {
           </p>
         </li>
         <li>
-          4. Nodered
+          4.
+          <a href="https://nodered.org/" target="_blank">
+            Nodered
+          </a>
           <p>
             It is a visual programming that is used to create APIs for few of
             the projects.

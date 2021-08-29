@@ -10,4 +10,5 @@ ul.info__list {
 
 ul.info__list p {
   font-size: 16px;
+  padding-left: 5px;
 }
