@@ -35,10 +35,11 @@ class Resume extends Component {
             <h5>Email</h5>
             <p>kshitij.lingthep@gmail.com</p>
             <h5>Web</h5>
-            <p>
+            <p style={{ display: "flex", flexDirection: "column" }}>
               <a href="https://anonymous-chris.github.io/Portfolio/">
                 https://anonymous-chris.github.io/Portfolio/
-              </a>{" "}
+              </a>
+              <span> (Uses google analytics to monitor portfolio).</span>
             </p>
             <h5>
               {" "}
