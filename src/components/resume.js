@@ -80,7 +80,7 @@ class Resume extends Component {
             <Experience
               startYear={2020 | 2021}
               jobName="Web Developer"
-              jobCompany="Foxonn Industrial Internet, Foxconn"
+              jobCompany="Foxconn Industrial Internet, Foxconn"
               jobDescription="●Collaborated on real time data monitoring Dashboards for the manufacturing plant at Mt. Pleasant, WI(ReactJS, Grafana, NodeRED)."
               moreInfo="● Designed and developed dynamic responsive reports based on the RESTful APIs."
               moreInfo1="● Developed a Content Management System(CMS) for the products and solutions(.NET)."
