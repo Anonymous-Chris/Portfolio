@@ -60,6 +60,28 @@ const Info = () => {
             the projects.
           </p>
         </li>
+        <li>
+          5.
+          <a
+            href="https://github.com/react-grid-layout/react-grid-layout"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            React Grid Layout
+          </a>
+          <p>It is a grid layout package with responsiveness feature.</p>
+        </li>
+        <li>
+          6.
+          <a
+            href="https://anonymous-chris.github.io/overall/#/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            Example
+          </a>
+          <p>An example using the above processess.</p>
+        </li>
       </ul>
     </div>
   );
