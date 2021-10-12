@@ -43,11 +43,28 @@ const Info = () => {
           <p>
             Most of the projects are automatically build from the main pipeline.
             It is built from the commited code and is ran by bots in github
-            which is eventually published in github pages.
+            which is eventually published in github pages. Also, I have used
+            gitlab to build docker images and push it to its registry. After
+            that the image is pulled into a server and then run automatically
+            using shell runners.
           </p>
         </li>
         <li>
           4.
+          <a
+            href="https://www.docker.com/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            Docker
+          </a>
+          <p>
+            Docker is a set of platform as a service products that use OS-level
+            virtualization to deliver software in packages called containers.
+          </p>
+        </li>
+        <li>
+          5.
           <a
             href="https://nodered.org/"
             target="_blank"
@@ -61,7 +78,7 @@ const Info = () => {
           </p>
         </li>
         <li>
-          5.
+          6.
           <a
             href="https://github.com/react-grid-layout/react-grid-layout"
             target="_blank"
@@ -72,7 +89,7 @@ const Info = () => {
           <p>It is a grid layout package with responsiveness feature.</p>
         </li>
         <li>
-          6.
+          7.
           <a
             href="https://anonymous-chris.github.io/overall/#/"
             target="_blank"
