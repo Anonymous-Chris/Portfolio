@@ -64,10 +64,10 @@ class About extends Component {
                 came to United States of America to pursue my education in
                 Computer and Information Science at The University of
                 Mississippi. I graduated on May 2020. After that, I started
-                working as a <b>R & D | Frontend Engineer</b> from July 2020 at
+                working as a <b>R & D | Software Engineer</b> from July 2020 at
                 Foxconn located at Mt. Pleasant, Wisconsin. I am
                 <b>
-                  <i>actively looking for a job.</i>
+                  <i> actively looking for a job.</i>
                 </b>{" "}
               </p>
               <br />

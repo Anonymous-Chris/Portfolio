@@ -78,18 +78,28 @@ class Resume extends Component {
             <h2>Experience</h2>
 
             <Experience
+              startYear={2021}
+              jobName="Front End Engineer"
+              jobCompany="Menon Labs"
+              jobDescription="● Collaborate with cross functional teams to build an improved version of Amira Running Record application."
+            />
+
+            <Experience
               startYear={2020 | 2021}
-              jobName="Web Developer"
+              jobName="Software Engineer"
               jobCompany="Foxconn Industrial Internet, Foxconn"
-              jobDescription="●Collaborated on real time data monitoring Dashboards for the manufacturing plant at Mt. Pleasant, WI(ReactJS, Grafana, NodeRED)."
+              jobDescription="● Collaborated on designing and developing IOT device services which includes web services for facility monitoring
+              systems, surveillance systems and smart industry 4.0 solutions."
               moreInfo="● Designed and developed dynamic responsive reports based on the RESTful APIs."
-              moreInfo1="● Developed a Content Management System(CMS) for the products and solutions(.NET)."
-              moreInfo2="● Created a Live Video Streaming dashboard using Object detection and human detection(python, AI , flask api)"
+              moreInfo1="● Developed both custom Content Management System(CMS) and Client user interface for the IOT device
+              marketplace."
+              moreInfo2="● Maintain detailed functional and technical software specifications documents for scalable applications.
+              "
             />
 
             <Experience
               startYear={2020}
-              jobName="Web Developer"
+              jobName="Full Stack Developer"
               jobCompany="Department of Mathematics, The University of Mississippi"
               jobDescription="● Designed an attendance tracking application using React for front-end, and Node, Express for backend of a
               website."
