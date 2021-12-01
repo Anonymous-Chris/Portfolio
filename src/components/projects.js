@@ -20,7 +20,7 @@ import wip from "../imgs/wip.png";
 import portfolio from "../imgs/portfolio.jpg";
 import news from "../imgs/news.jpg";
 import logo from "../imgs/logo.png";
-import task from "../imgs/task.jpg";
+// import task from "../imgs/task.jpg";
 import Info from "./Info";
 class Projects extends Component {
   constructor(props) {
@@ -281,7 +281,7 @@ class Projects extends Component {
           </Card>
 
           {/* Project 2 */}
-          <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
+          {/* <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
             <CardTitle
               style={{
                 color: "black",
@@ -301,10 +301,10 @@ class Projects extends Component {
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
             </CardMenu>
-          </Card>
+          </Card> */}
 
           {/* Project 3 */}
-          <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
+          {/* <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
             <CardTitle
               style={{
                 color: "black",
@@ -324,7 +324,7 @@ class Projects extends Component {
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
             </CardMenu>
-          </Card>
+          </Card> */}
         </div>
       );
     } else if (this.state.activeTab === 2) {
@@ -417,9 +417,6 @@ class Projects extends Component {
                 >
                   <Button colored>GitHub</Button>
                 </a>
-                {/* <a href="" target="_blank" rel="noreferrer noopener">
-          <Button colored>Live Demo</Button>
-          </a> */}
               </CardActions>
               <CardMenu style={{ color: "#fff" }}>
                 <IconButton name="share" />
@@ -429,7 +426,7 @@ class Projects extends Component {
           <br />
           <div className="projects-grid">
             {/* Project 4 */}
-            <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
+            {/* <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
               <CardTitle
                 style={{
                   color: "black",
@@ -453,7 +450,7 @@ class Projects extends Component {
               <CardMenu style={{ color: "#fff" }}>
                 <IconButton name="share" />
               </CardMenu>
-            </Card>
+            </Card> */}
 
             {/* Project 5 */}
             <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
