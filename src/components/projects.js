@@ -39,6 +39,42 @@ class Projects extends Component {
                 style={{
                   color: "black",
                   height: "176px",
+                  background: `url("https://s3.amazonaws.com/media.eremedia.com/uploads/2015/12/21130345/shutterstock_223963798-700x467.jpg") center / cover`,
+                }}
+              ></CardTitle>
+              <CardText>
+                Learning new website features(Responsive using bootstrap, React
+                Grid Layout).
+                <br />
+              </CardText>
+              <CardActions border>
+                <a
+                  href="https://github.com/Anonymous-Chris/overall"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
+                  <Button colored>GitHub</Button>
+                </a>
+
+                <a
+                  href="https://anonymous-chris.github.io/overall/"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
+                  <Button colored>Live Demo</Button>
+                </a>
+              </CardActions>
+              <CardMenu style={{ color: "#fff" }}>
+                <IconButton name="share" />
+              </CardMenu>
+            </Card>
+
+            {/* Project 2 */}
+            <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
+              <CardTitle
+                style={{
+                  color: "black",
+                  height: "176px",
                   background: `url("${attendance}") center / cover`,
                 }}
               ></CardTitle>
@@ -72,7 +108,7 @@ class Projects extends Component {
               </CardMenu>
             </Card>
 
-            {/* Project 2 */}
+            {/* Project 3 */}
             <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
               <CardTitle
                 style={{
@@ -107,8 +143,9 @@ class Projects extends Component {
                 <IconButton name="share" />
               </CardMenu>
             </Card>
-
-            {/* Project 3 */}
+          </div>
+          <div className="projects-grid">
+            {/* Project 4 */}
             <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
               <CardTitle
                 style={{
@@ -152,9 +189,7 @@ class Projects extends Component {
                 <IconButton name="share" />
               </CardMenu>
             </Card>
-          </div>
-          <div className="projects-grid">
-            {/* Project 4 */}
+            {/* Project 5 */}
             <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
               <CardTitle
                 style={{
@@ -190,42 +225,6 @@ class Projects extends Component {
               </CardMenu>
             </Card>
 
-            {/* Project 5 */}
-            <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
-              <CardTitle
-                style={{
-                  color: "black",
-                  height: "176px",
-                  background: `url("https://s3.amazonaws.com/media.eremedia.com/uploads/2015/12/21130345/shutterstock_223963798-700x467.jpg") center / cover`,
-                }}
-              ></CardTitle>
-              <CardText>
-                Learning new website features(Responsive using bootstrap, React
-                Grid Layout).
-                <br />
-              </CardText>
-              <CardActions border>
-                <a
-                  href="https://github.com/Anonymous-Chris/overall"
-                  target="_blank"
-                  rel="noreferrer noopener"
-                >
-                  <Button colored>GitHub</Button>
-                </a>
-
-                <a
-                  href="https://anonymous-chris.github.io/overall/"
-                  target="_blank"
-                  rel="noreferrer noopener"
-                >
-                  <Button colored>Live Demo</Button>
-                </a>
-              </CardActions>
-              <CardMenu style={{ color: "#fff" }}>
-                <IconButton name="share" />
-              </CardMenu>
-            </Card>
-
             {/* Project 6 */}
             <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
               <CardTitle
@@ -239,11 +238,11 @@ class Projects extends Component {
                 --------------------Work in
                 Progress-----------------------------------------------------------------------------------
               </CardText>
-              <CardActions border>
+              {/* <CardActions border>
                 <Button colored>GitHub</Button>
 
                 <Button colored>Live Demo</Button>
-              </CardActions>
+              </CardActions> */}
               <CardMenu style={{ color: "#fff" }}>
                 <IconButton name="share" />
               </CardMenu>
@@ -343,18 +342,20 @@ class Projects extends Component {
               <CardText>
                 Created a portfolio website.
                 <br />
-                <a href="kshitijlingthep.com">kshitijlingthep.com</a>
+                <a href="https://anonymous-chris.github.io/Portfolio/#/">
+                  kshitijlingthep.com
+                </a>
               </CardText>
               <CardActions border>
                 <a
-                  href="https://github.com/Anonymous-Chris/JDBC"
+                  href="https://github.com/Anonymous-Chris/Portfolio"
                   target="_blank"
                   rel="noreferrer noopener"
                 >
                   <Button colored>GitHub</Button>
                 </a>
                 <a
-                  href="https://kshitijlingthep.com"
+                  href="https://anonymous-chris.github.io/Portfolio/#/"
                   target="_blank"
                   rel="noreferrer noopener"
                 >
@@ -505,6 +506,29 @@ class Projects extends Component {
                   <Button colored>Graphs</Button>
                 </a>
               </CardActions>
+              <CardMenu style={{ color: "#fff" }}>
+                <IconButton name="share" />
+              </CardMenu>
+            </Card>
+
+            {/* Project 6 */}
+            <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
+              <CardTitle
+                style={{
+                  color: "black",
+                  height: "176px",
+                  background: `url("${wip}") center / cover`,
+                }}
+              ></CardTitle>
+              <CardText>
+                --------------------Work in
+                Progress-----------------------------------------------------------------------------------
+              </CardText>
+              {/* <CardActions border>
+                <Button colored>GitHub</Button>
+
+                <Button colored>Live Demo</Button>
+              </CardActions> */}
               <CardMenu style={{ color: "#fff" }}>
                 <IconButton name="share" />
               </CardMenu>

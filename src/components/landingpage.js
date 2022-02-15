@@ -22,7 +22,8 @@ class Landing extends Component {
 
               <p>
                 HTML/CSS | Bootstrap | JavaScript | ReactJS | VueJS | NodeJS |
-                Java | SQL | Git | Docker | CI/CD | NodeRED | Grafana | Linux{" "}
+                Java | Spring MVC | REST API | SQL | Git | Docker | CI/CD |
+                NodeRED | Grafana | Linux{" "}
               </p>
 
               <div className="social-links">

@@ -85,15 +85,13 @@ class Resume extends Component {
             />
 
             <Experience
-              startYear={2020 | 2021}
+              startYear={2020 | "Present"}
               jobName="Software Engineer"
               jobCompany="Foxconn Industrial Internet, Foxconn"
-              jobDescription="● Collaborated on designing and developing IOT device services which includes web services for facility monitoring
-              systems, surveillance systems and smart industry 4.0 solutions."
-              moreInfo="● Designed and developed dynamic responsive reports based on the RESTful APIs."
-              moreInfo1="● Developed both custom Content Management System(CMS) and Client user interface for the IOT device
-              marketplace."
-              moreInfo2="● Maintain detailed functional and technical software specifications documents for scalable applications.
+              jobDescription="● Hands on experience with designing and developing IOT device solutions for surveillance systems, facility monitoring systems, and smart manufacturing industry solutions."
+              moreInfo="● Designed and developed RESTful APIs for Equipment Management Systems using Spring Framework."
+              moreInfo1="● Assisted in development and execution of Content Management System(CMS) as per UI specifications and for IOT products and solutions."
+              moreInfo2="● Worked in close cooperation with project managers and other functional team members to form a team effort in development.
               "
             />
 
@@ -101,8 +99,8 @@ class Resume extends Component {
               startYear={2020}
               jobName="Full Stack Developer"
               jobCompany="Department of Mathematics, The University of Mississippi"
-              jobDescription="● Designed an attendance tracking application using React for front-end, and Node, Express for backend of a
-              website."
+              jobDescription="● Designed and developed an Attendance Tracking web application for the Department of Mathematics using latest technologies and frameworks(React, firebase, NodeJs)."
+              moreInfo="Planned, tracked and managed deliverables on the product as per request of the client."
             />
 
             <Experience
@@ -114,12 +112,13 @@ class Resume extends Component {
 
             <Experience
               startYear={2019}
-              jobName="Database Administrator | School of Engineering"
+              jobName="Database Developer | School of Engineering"
               jobCompany="The University of Mississippi "
-              jobDescription="● Designed a database using MySQL, PHP and GO for implementing CRUD interfaces on the website for
-              subscription of news and addition and deletion of new users."
+              jobDescription="● Designed a database using MySQL to implement CRUD interfaces in a website for subscription of news, addition and deletion of users."
+              moreInfo="● Hands-on Database Performance and Scalability experience with design knowledge of physical and logical database schemas and tables."
+              moreInfo1="Programming – utilize programming languages to create complex functions, stored procedures  for use in databases."
             />
-
+            {/* 
             <Experience
               startYear={2018}
               jobName="Full Stack Developer | Department of Computer and Information Science"
@@ -129,7 +128,7 @@ class Resume extends Component {
              "
               moreInfo="● Developed admin/user/guest functions in accessing the information entered, while working with both the
              backend and frontend of the project involving HTML, PHP, MYSQL, JavaScript, CSS. "
-            />
+            /> */}
 
             <Experience
               startYear={2018}
@@ -162,11 +161,11 @@ class Resume extends Component {
             <Skills skill="HTML/CSS" progress={95} />
             <Skills skill="javascript" progress={90} />
             <Skills skill="Bootstrap" progress={90} />
-            <Skills skill="React" progress={80} />
+            <Skills skill="React" progress={90} />
+            <Skills skill="Java" progress={90} />
             <Skills skill="Nodered" progress={75} />
             <Skills skill="CI/CD" progress={70} />
             <Skills skill="NodeJS" progress={70} />
-            <Skills skill="Java" progress={70} />
             <Skills skill="MySQL" progress={70} />
             <Skills skill="No SQL" progress={65} />
             <Skills skill="Ionic" progress={60} />
